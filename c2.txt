@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ihis is c2.txt in main
+=======
+This is c2.txt in fb
+
+>>>>>>> fb
